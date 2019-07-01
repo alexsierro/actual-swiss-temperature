@@ -6,7 +6,8 @@ Get current air temperature for specified station.
 Data source is described here :
 https://data.geo.admin.ch/ch.meteoschweiz.messwerte-lufttemperatur-10min/
 
-### Term and conditions 
+
+Term and conditions :
 https://www.geo.admin.ch/en/about-swiss-geoportal/responsabilities-and-contacts.html
 
 
